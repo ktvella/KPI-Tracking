@@ -12,3 +12,6 @@ The OTD file tracks customer orders that are behind schedule. Displays items by 
 
 The Scrap file tracks items or components that had to be scrapped from the system. This can help us to identify manufacturing processes with low yield that need to be improved, items that are coming from suppliers that are not to spec, or surplus ordering of components that have expired. 
 
+## Quality Nonconformance Reports (NCRs)
+
+Whenever a part or component is caught that is not up to quality standards, a Nonconformance Report is generated. The NCR file tracks the top items that generate NCRs, as well as the total count of NCRs by month. Similar to the scrap sheet, this metric helps us identify processes that need improvement. Additionally, it helps us track our overall quality trends and improvements over time. 
