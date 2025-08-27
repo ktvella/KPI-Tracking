@@ -15,3 +15,7 @@ The Scrap file tracks items or components that had to be scrapped from the syste
 ## Quality Nonconformance Reports (NCRs)
 
 Whenever a part or component is caught that is not up to quality standards, a Nonconformance Report is generated. The NCR file tracks the top items that generate NCRs, as well as the total count of NCRs by month. Similar to the scrap sheet, this metric helps us identify processes that need improvement. Additionally, it helps us track our overall quality trends and improvements over time. 
+
+## Variances
+
+The Variance sheet tracks the top 5 items with positive or negative variance. Variance is the deviation from the expected cost to produce a part. It includes the cost of components, labor, and overhead. A positive variance means that a product cost more than expected to produce, and a negative variance means it cost less than expected to produce. Either way, a variance indicates that the process is producing unexpected waste or taking more or less time than predicted. This metric helps us to identify processes that need evaluation or parts that need the times on the instructions need to be updated. 
