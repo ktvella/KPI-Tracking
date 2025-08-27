@@ -11,9 +11,14 @@ A series of auto-updating Excel files to keep track of KPIs for the manufacuring
 
 The OTD file tracks orders that are behind schedule. Displays items by number of days late, as well as by dollars late. Helps us to identify large line items that are behind schedule, or items that are severly behind, in order to prioritize manufacturing schedule appropriately. 
 
+**Actions**: Scheduling to prioritize behind schedule orders when components become available, floor managers to prioritize/streamline behind-schedule orders
+
+
 ## Scrap
 
 The Scrap file tracks items or components that had to be scrapped from the system. This can help us to identify manufacturing processes with low yield that need to be improved, items that are coming from suppliers that are not to spec, or surplus ordering of components that have expired. 
+
+**Actions**: Manufacturing Engineers to evaluate process, Tool Shop to evaluate manufacuting tools
 
 ## Quality Nonconformance Reports (NCRs)
 
